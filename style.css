@@ -1,0 +1,36 @@
+body{
+    font-family: "Barlow", sans-serif;
+    text-align: center;
+    
+}
+.fundo{
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    margin: auto;
+    margin-top: 100px;
+}
+button{
+    background: rgb(0, 0, 0);
+padding: 10px 20px;
+color: white;
+border: none;
+}
+button:hover{
+    background-color: rgb(127, 132, 149);
+}
+.escolhas{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+h3
+    {
+        color: antiquewhite;
+    }
+    h4{
+        color: rgb(122, 111, 170);
+    }
+    h1{
+        color: antiquewhite;
+    }
